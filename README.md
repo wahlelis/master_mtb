@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Proposal for Masterthesis
 
 **Forschungsgruppe Geoinformatik**
@@ -37,3 +41,5 @@
 ## Budget plan
 
 ## References
+
+[@yang2023]\
