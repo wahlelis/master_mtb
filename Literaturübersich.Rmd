@@ -1,0 +1,27 @@
+# Literaturübersicht
+
+## wiss. Literatur
+
+-   **De Montjoye et al. - Unique in the Crowd: The privacy bounds of human mobility**
+
+    We study fifteen months of human mobility data for one and a half million individuals and find that human mobility traces are highly unique. In fact, in a dataset where the location of an individual is specified hourly, and with a spatial resolution equal to that given by the carrier's antennas, four spatio-temporal points are enough to uniquely identify 95% of the individuals. We coarsen the data spatially and temporally to find a formula for the uniqueness of human mobility traces given their resolution and the available outside information. This formula shows that the uniqueness of mobility traces decays approximately as the 1/10 power of their resolution. Hence, even coarse datasets provide little anonymity. These findings represent fundamental constraints to an individual's privacy and have important implications for the design of frameworks and institutions dedicated to protect the privacy of individuals.
+
+-   **Gschwend - Relating Movement to Geographic Context -- Effects of Preprocessing, Relation Methods and Scale**
+
+-   **Gonsek et al. - From paths to routes: a method for path classification**
+
+    This paper identifies paths of bumblebees based on multiple criteria, amongst which they assess similarity. But as a unique identifier, they use DTW and Frechet distance, which might not be the perfect approach for my mountainbiking thesis.
+
+-   **Koemle and Morawetz** - **Improving mountain bike trails in Austria: An assessment of trail
+    preferences and benefits from trail features using choice experiments**
+
+    Over the past two decades, mountain biking has emerged as an increasingly popular [recreational activity](https://www.sciencedirect.com/topics/social-sciences/recreational-activity "Learn more about recreational activity from ScienceDirect's AI-generated Topic Pages"). However, at least in Austria official trails do not necessarily match the preferences of bikers and therefore they often ride on unofficial trails or on trails where biking is not allowed. This behavior can result in conflicts with other trail users, landowners, hunters and [conservationists](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/conservationist "Learn more about conservationists from ScienceDirect's AI-generated Topic Pages"). With data from an online choice experiment we confirm and extend results from previous studies on mountain biking, such as riders preferring technically challenging trails with lots of singletrack and vertical climb. However, the specific preferences depend on rider characteristics, especially experience and age. Through a simulation of market shares and the calculation of compensating surplus for riders in the study area in forests close to Vienna, we demonstrate how this research can provide insights about how to adjust trails to better match the interests of bikers while still respecting regulations which are in the interests of landowners, hunters and ecological concerns.
+
+
+## sek. Literatur
+
+[approach to a mountainbike trail recommending system](https://github.com/briangraham/trailrec "Rec & Ride")
+
+[Outside trail recommender for Trailforks](https://towardsdatascience.com/build-trail-recommender-for-trailforks-8ea64b1a2fe4)
+
+## code Stuff
